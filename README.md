@@ -49,6 +49,8 @@ No additional setup is required. The game is ready to play!
 - script.js: The JavaScript file that contains the game logic.
 
 ## Screenshots
+<img width="1470" alt="Screenshot 2024-08-11 at 10 38 25 PM" src="https://github.com/user-attachments/assets/c9f50cbe-4dba-48f5-ad52-5cc798abb12a">
+<img width="1470" alt="Screenshot 2024-08-11 at 10 39 51 PM" src="https://github.com/user-attachments/assets/c3c54a17-47d0-4a08-a5c3-2679e3d67d30">
 ## Contributions
 
 
